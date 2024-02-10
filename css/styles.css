@@ -1,3 +1,51 @@
-body{
-    background-color: bisque;
+header {
+    background-color: #4D7B95;
+    
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    padding: 1%;
+    color: white;
+    font-style: bold;
+    font-size: 64px;
+    font-family:'Times New Roman', Times, serif
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+.logo {
+    width: 23%;
+    padding: 10%;
+    text-align: center;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+.selfie {
+    height: 600px;
+    padding: 10%;
+    margin-left: 28%;
+}
+body {
+    background-color:#AE8080;
+}
+
+.content {
+    background-color: black;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.name {
+    color: white;
+    font-size: 64px;
+    text-align: center;
 }
