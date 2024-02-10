@@ -60,3 +60,12 @@ button {
     color; #AE8080;
     margin-left: 47%;
 }
+footer {
+    background-color: black;
+    color: white;
+}
+.foot {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 47%;
+}
