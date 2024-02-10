@@ -49,3 +49,14 @@ body {
     font-size: 64px;
     text-align: center;
 }
+
+.text {
+    color: white;
+    margin-left: 35%;
+    width: 30%;
+}
+
+button {
+    color; #AE8080;
+    margin-left: 47%;
+}
